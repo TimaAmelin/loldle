@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/loldle/static/css/main.f8e0eb7c.css",
-    "main.js": "/loldle/static/js/main.5606fda6.js",
+    "main.js": "/loldle/static/js/main.1bbd1eec.js",
     "static/js/453.e3f8f5cb.chunk.js": "/loldle/static/js/453.e3f8f5cb.chunk.js",
     "index.html": "/loldle/index.html",
     "main.f8e0eb7c.css.map": "/loldle/static/css/main.f8e0eb7c.css.map",
-    "main.5606fda6.js.map": "/loldle/static/js/main.5606fda6.js.map",
+    "main.1bbd1eec.js.map": "/loldle/static/js/main.1bbd1eec.js.map",
     "453.e3f8f5cb.chunk.js.map": "/loldle/static/js/453.e3f8f5cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8e0eb7c.css",
-    "static/js/main.5606fda6.js"
+    "static/js/main.1bbd1eec.js"
   ]
 }
